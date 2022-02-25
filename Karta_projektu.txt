@@ -1,0 +1,5 @@
+Temat projektu - Aplikacja Webowa 
+Budżet(czas) - 26.02.2022 – 1.07.2022, 6-8 godzin pracy od poniedziałku do piątku
+Cel projektu - Program do obliczania momentów wschodów i zachodów Słońca i Księżyca dla zadanego miejsca
+Odpowiedzialność (role w zespole) - Frontend - Tworzenie front-endu w technologi React.js
+Backend - Tworzenie backendu w technologi Python
