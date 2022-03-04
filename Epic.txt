@@ -1,0 +1,27 @@
+EPIC:
+1.Jako użytkownik aplikacji chcę widzieć wszystkie żabki w mojej okolicy żeby wiedzieć którą mam najbliżej.
+2.Jako użytkownik aplikacji chcę zobaczyć listę ostatnich transakcjiw sklepach żabka, żeby kontrolować swoje wydatki.
+3.Jako użytkownik aplikacji chcę widzieć wszystkie żabki w Polsce.
+4.Jako użytkownik aplikacji chcę  zaktualizować mój profil.
+5.Jako użytkownik aplikacji chcę zmienic moje dane logowania żeby były trudniejsze do złamania.
+
+Feature:
+1.Użytkownik ma możliwość wymiany żapsów na produkty
+2.Użytkownik ma możliwość skorzystać autonomicznej żabki za pomocą aplikacji
+3.
+
+
+
+User stories:
+1.Użytkownik zakłada konto
+2.Użytkownik loguje się
+3.Użytkownik zmienia dane logowania
+4.Użytkownik wyświetla żabki na mapie
+5.Użytkownik dzięki aplikacji znajduje swoje położenie za pomocą GPS
+6.Użytkownik znajduję nabliższą żabkę
+7.Użytkownik sprawdza informacje o żabce (godziny otwarcia, adres)
+8.Użytkownik sprawdza ile żabek jest w Polsce
+9.Użytkownik sprawdza aktulane promocje w żabce
+10.Użytkownik sprawdza ile żapsów ma na koncie 
+
+
