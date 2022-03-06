@@ -1,15 +1,13 @@
-EPIC:
-1.Jako użytkownik aplikacji chcę widzieć wszystkie żabki w mojej okolicy żeby wiedzieć którą mam najbliżej.
-2.Jako użytkownik aplikacji chcę zobaczyć listę ostatnich transakcjiw sklepach żabka, żeby kontrolować swoje wydatki.
-3.Jako użytkownik aplikacji chcę widzieć wszystkie żabki w Polsce.
-4.Jako użytkownik aplikacji chcę  zaktualizować mój profil.
-5.Jako użytkownik aplikacji chcę zmienic moje dane logowania żeby były trudniejsze do złamania.
+EPIC 
+1.Jako użytkownik aplikacji chcę skorzystać z autonomicznej żabki aby zrobić zakupy w niedzielę kiedy inne żabki są zamknięte
 
-Feature:
-1.Użytkownik ma możliwość wymiany żapsów na produkty
-2.Użytkownik ma możliwość skorzystać autonomicznej żabki za pomocą aplikacji
-3.
 
+Feature - Użytkownik ma możliwość skorzystać z autonomicznej żabki przy pomocy aplikacji
+1.Aplikacja wyświetla informacje czy w okolicy znajduje się autonomiczna żabka
+2.Użytkownik za pomocą aplikacji otwiera autonomiczną żabkę
+3.Użytkownik za pomocą aplikacji płaci za zakupy
+4.Użytkownik otrzymuje żapsy za zakupy
+5.Użytkownik za pomocą aplikacji zamyką autonomiczną żabkę
 
 
 User stories:
@@ -23,5 +21,26 @@ User stories:
 8.Użytkownik sprawdza ile żabek jest w Polsce
 9.Użytkownik sprawdza aktulane promocje w żabce
 10.Użytkownik sprawdza ile żapsów ma na koncie 
+11.Użytkownik usuwa swoje konto
+12.Użytkownik ma możliwość wymiany żapsów na produkty
+13.Użytkownik ma możliwość skorzystać z autonomicznej żabki przy pomocy aplikacji
+14.Użytkownik ma możliwość powiązania karty płatniczej z aplikacją
+15.Użytkownik otrzymuje żapsy za zrobione zakupy
 
 
+Ocena user stories (planning poker)
+1.Użytkownik zakłada konto - 3
+2.Użytkownik loguje się - 1
+3.Użytkownik zmienia dane logowania - 2
+4.Użytkownik wyświetla żabki na mapie - 8
+5.Użytkownik dzięki aplikacji znajduje swoje położenie za pomocą GPS - 3
+6.Użytkownik znajduję nabliższą żabkę - 5
+7.Użytkownik sprawdza informacje o żabce (godziny otwarcia, adres) - 1
+8.Użytkownik sprawdza ile żabek jest w Polsce - 2
+9.Użytkownik sprawdza aktulane promocje w żabce - 2
+10.Użytkownik sprawdza ile żapsów ma na koncie  - 1
+11.Użytkownik usuwa swoje konto - 1
+12.Użytkownik ma możliwość wymiany żapsów na produkty - 8
+13.Użytkownik ma możliwość skorzystać z autonomicznej żabki przy pomocy aplikacji - 8
+14.Użytkownik ma możliwość powiązania karty płatniczej z aplikacją - 2
+15.Użytkownik otrzymuje żapsy za zrobione zakupy - 2
