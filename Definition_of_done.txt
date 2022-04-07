@@ -1,0 +1,48 @@
+Definition of done dla portalu internetowego
+
+1. Test na różnych przeglądarkach
+2. Codereview
+3. Dokumentacja
+4. Zdane testy funkcjonalne
+5. Spełnione wymagania niefunkcjonalne
+
+
+
+
+
+
+
+
+"Jako użytkownik chce przesłać zdjęcia na serwer"
+1. Akceptowalne formaty: jpg, png, raw, gif, bmp
+2. Rozmiar pojedyńczego zdjęcia do 50Mb dla raw, dla reszty do 10Mb
+3. Posiadanie konta
+4. Możliwość przesłania więcej niż 1 zdjęcia na raz
+5. Wyświetlenie komunikatu o poprawym przesłaniu zdjęć
+
+
+Atomowe czynności (wszystko co robimy od początku)
+1.Budzę się
+2.Wyłączam budzik
+3.Piję wodę którą mam obok
+4.Wstaję z łóżka
+5.Zakładam kapcie
+6.Zakładam bluzę
+7.Idę do łazienki
+8.Ubieram się
+9.Układam włosy
+10.Idę do pokoju po okulary
+11.Zakładam okulary
+12.Idę do kuchni
+13.Przygotowuję śniadanie
+14.Jem sniadanie 
+15.Zmywam po śniadaniu
+16.Idę zapalić papierosa
+17.Myję zęby
+18.Ubieram kurtkę i buty
+19.Zakładam plecak
+20.Wychodzę z domu
+21.Idę na przystanek
+22.Wsiadam do autobusu
+23.Sprawdzam co przystanek czy nie ma kontrolera biletów
+24.Wysiadam pod wydziałem
